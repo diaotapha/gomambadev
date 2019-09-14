@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-# ruby '2.3.8'
+ruby '2.3.8'
 
 gem 'facebook-messenger'
 # EAALxmRb1J7sBAGVZCgdcLzKHTIy8UszZBauuRFtL2Ikv6wG411vG6uB9zZC1lk3QbbXxgAQZA5ZCgAySv370spU7v9FYrkAP6pqABhSSnebsqwYbHRUEbhO37dCDykSPb9RZAMJeJuxZAFtZB1GDw4M1jj5nDDQ7AVvSMXfY2CY6tQZDZD
